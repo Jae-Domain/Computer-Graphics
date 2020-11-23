@@ -1,0 +1,10 @@
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\bin\Debug\juliaSet.exe.config
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\bin\Debug\juliaSet.exe
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\bin\Debug\juliaSet.pdb
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\obj\Debug\juliaSet.Form1.resources
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\obj\Debug\juliaSet.Properties.Resources.resources
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\obj\Debug\juliaSet.csproj.GenerateResource.cache
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\obj\Debug\juliaSet.csproj.CoreCompileInputs.cache
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\obj\Debug\juliaSet.exe
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\obj\Debug\juliaSet.pdb
+C:\Users\Janelle\Source\Repos\juliaSet\juliaSet\obj\Debug\juliaSet.csprojAssemblyReference.cache
